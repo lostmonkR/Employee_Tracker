@@ -5,4 +5,4 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 To clone this repo  
 ```
-git clone 
+git clone https://github.com/lostmonkR/Employee_Tracker.git
